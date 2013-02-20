@@ -1,0 +1,15 @@
+<!--
+    Modify this document anytime you make changes.
+-->
+
+
+20-Feb-2010 11:00 AM:
+=====================
+* Added Devise authentication by following
+   --> http://railsapps.github.com/tutorial-rails-mongoid-devise.html
+
+19-Feb-2010:
+=====================
+* Created application using mongoid
+* Integrated Twitter Bootstrap using the gem
+   --> https://github.com/seyhunak/twitter-bootstrap-rails
